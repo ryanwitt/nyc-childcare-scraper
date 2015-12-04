@@ -1,0 +1,26 @@
+{
+  "name": "nyc-childcare-scraper",
+  "version": "1.0.0",
+  "description": "Scraper to help parents get childcare data from the NYC Deptartment of Health and Mental Hygiene",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:ryanwitt/nyc-childcare-scraper.git"
+  },
+  "keywords": [
+    "data",
+    "scraper",
+    "childcare",
+    "public data",
+    "open data"
+  ],
+  "author": "Ryan Witt <onecreativenerd@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ryanwitt/nyc-childcare-scraper/issues"
+  },
+  "homepage": "https://github.com/ryanwitt/nyc-childcare-scraper"
+}
